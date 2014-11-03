@@ -9,9 +9,9 @@
 * @version BETA 0.30
 */
   $db_host = 'localhost';
-  $db_user = '*****';
-  $db_password = '*****';
-  $db_name = '*****'; 
+  $db_user = 'root';
+  $db_password = '1234';
+  $db_name = 'twitter'; 
 	
 	// MySQL time zone setting to normalize dates
 	define('TIME_ZONE','America/New_York');
